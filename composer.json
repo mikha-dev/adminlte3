@@ -1,5 +1,5 @@
 {
-    "name": "pigzzz123/adminlte3",
+    "name": "mikha-dev/adminlte3",
     "description": "AdminLTE3 extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "AdminLTE3"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "mikha-dev/laravel-admin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
